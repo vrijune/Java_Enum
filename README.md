@@ -30,6 +30,7 @@ Number of shapes in list: 10
 Process finished with exit code 0
 ```
 
+
 ### Step 1: Implement Comparable<T>
 If we run the main **ExerciseOne** class now, we’ll see that the program throws a **ClassCastException**. This is because we’re trying to add Shapes to a **TreeSet** in the **sortedSetExample** method. **TreeSets** automatically sort their contents according to their *natural ordering* – but at this stage, we haven’t yet defined a natural ordering for Shapes!
 
