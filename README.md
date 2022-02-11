@@ -2,7 +2,7 @@ Industry Lab 10: More Collections, Enumerated Types, & Recursion
 ==========
 
 ## Exercise One: Sorting, Comparable & Comparator
-In the `ex01` package, you’ll notice our familiar Shape classes once again. For this exercise, we want to sort a list of Shapes in a couple of different ways.
+In the `ex01` package, notice our familiar Shape classes once again. For this exercise, we want to sort a list of Shapes in a couple of different ways.
 
 When you’ve completed steps 1 and 2 below, your program should compile and run without errors, and produce the output shown here:
 ```text
